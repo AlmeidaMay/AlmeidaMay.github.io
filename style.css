@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 198,	35);
+    background-color: rgb(180, 100, 122);
     color: aqua;
     font-size: 150%;
     line-height: 2.0;
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(255, 198, 35);
+    background-color: rgb(180, 100, 122);
     color:  DeepPink;
 }
 
